@@ -54,7 +54,7 @@ The main features are as follows:
 20. User provided RRCReconfiguration is supported, please check `rrc_recfg_config` folder for more information. We provide several examples of RRCReconfiguration for different scenarios (T-Mobile FDD and TDD SA cells).
 21. Stay tuned... 😄
 
-Please refer to the [wiki page](https://github.com/PrincetonUniversity/NG-Scope-5G/wiki) for more feature description and documentation.
+Please refer to the [wiki page](https://github.com/NTU-WMNLab-Repo/NR-Scope/wiki) for more feature description and documentation.
 
 ## Notice about the base stations
 
@@ -194,4 +194,4 @@ sudo ./nrscope | tee ./$(date +"%Y-%m-%d_%H:%M:%S").txt | grep Found 	# This com
 sudo ./nrscan
 ```
 
-Please refer to this [wiki page](https://github.com/PrincetonUniversity/NR-Scope/wiki/1.-Introduction#output-format) for the description of log output and [FAQ](https://github.com/PrincetonUniversity/NR-Scope/wiki/7.-Usage-Recommendations-and-FAQ).
+Please refer to this [wiki page](https://github.com/NTU-WMNLab-Repo/NR-Scope/wiki/1.-Introduction) for the description of log output and [FAQ](https://github.com/NTU-WMNLab-Repo/NR-Scope/wiki/7.-Usage%E2%80%90Recommendations%E2%80%90and%E2%80%90FAQ).
